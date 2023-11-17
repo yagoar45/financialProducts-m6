@@ -1,0 +1,6 @@
+SELECT * FROM 'products' WHERE productId='1'
+SELECT * FROM 'products' WHERE productId='2'
+SELECT * FROM 'products' WHERE productId='3'
+SELECT * FROM 'products' WHERE productId='4'
+SELECT * FROM 'products' WHERE productId='5'
+SELECT * FROM 'products' WHERE productId='6'
